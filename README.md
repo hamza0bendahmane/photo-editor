@@ -1,7 +1,7 @@
 # Photo-Editor-App
 ![alt text][logo]
 
-[logo]: https://github.com/hamza0bendahmane/photo_editor/blob/master/app/src/main/res/drawable/ic_icon.png "Logo App"
+[logo]: https://github.com/hamza0bendahmane/photo-editor/blob/master/app/src/main/res/drawable-xhdpi/logo_name.png "Logo App"
 baby stories app
 
 
